@@ -365,3 +365,4 @@ PRODUCT_BOOT_JARS += \
 
 # Call the proprietary setup
 $(call inherit-product, vendor/xiaomi/msm8998-common/msm8998-common-vendor.mk)
+$(call inherit-product, vendor/miuicamera/common/common-vendor.mk)
